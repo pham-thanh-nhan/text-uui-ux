@@ -1,0 +1,30 @@
+.swiper{
+    height: 300px;
+    width: 100%;
+}
+.mt-100{
+    margin-top: 100px;
+}
+.anh-meme{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.bg-block{
+    background-color: #dad9d9;
+    opacity: 0.2;
+
+}
+.swiper-slide-active .bg-block{
+    opacity: 1;
+}
+.swiper-pagination-bullet{
+   
+    width: 50px;
+    height: 20px;
+    border-radius: 50%;
+}
+.swiper-pagination-bullet-active{
+   background-color: blueviolet;
+}
